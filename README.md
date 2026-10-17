@@ -145,6 +145,15 @@ ${\color{#4C9489}\text{꒱ Medieval vibe     ·}}$ ${\color{#F6FFEB}\text{ fae a
 
 </div>
 
+
+<div align="center">
+
+<a href="https://youtu.be/XhKZ2zvPhbo?si=pUTDm9LrQ8vPdrye">
+  <span style="color:#F6FFEB;">Shnezhnaya Shenanigans</span>
+</a>
+
+</div>
+
 <p align="center">
   <img src="https://github.com/H0llowStrings/H0llowStrings/blob/6f32276e15b1b62fdee325d839ff95e7ba5b5e64/Sans%20titre%20524_20261016215720.png"width="1200">
 </p>

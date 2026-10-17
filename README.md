@@ -56,6 +56,74 @@ ${\color{#4C9489}\text{꒱ Medieval vibe     ·}}$ ${\color{#F6FFEB}\text{ fae a
 </table>
 </div>
 
+<details>
+<summary>${\color{#4C9489}\text{Byi ✦}}$</summary>
+
+<br>
+<p align="center">
+<p align="center">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/85fd7e0fc27bdc11f88a53c451df1d36c7f4465c/Sans%20titre%20487_20260910211647.png"width="85">
+  
+<div align="center">
+
+<div align="center">
+
+${\color{#7AA49E}\text{ DNI}}$
+
+${\color{#4C9489}\text{Minor × Adult shippers, sexualizing children, inappropriate / NSFW art involving minors, stalker fans, bodyshaming, racism, misogyny, sexism, homophobia, etc.}}$
+
+<br>
+
+${\color{#7AA49E}\text{DNIUF / IWC }}$
+
+${\color{#4C9489}\text{Greenapple.Dnuif, most DNI roleplayers, Harlequin lovers / Harlequin fans, and people who genuinely support any of the things listed above.}}$  
+${\color{#7AA49E}\text{(Hazbin Hotel / Helluva Boss DNI / DNIUF)}}$ 
+${\color{#7AA49E}\text{TFC fandom.}}$
+
+<br>
+
+${\color{#7AA49E}\text{BASIC DNI}}$
+
+${\color{#4C9489}\text{If you’re uncomfortable with my personality or attitude, we probably won’t get along.  }}$
+${\color{#4C9489}\text{I can be mean / a ragebaiter around my friends, so please don’t take everything I say seriously.}}$  
+${\color{#4C9489}\text{I’m also not always educated on every topic, so feel free to correct me respectfully.}}$
+
+<br>
+
+${\color{#7AA49E}\text{IWC / BYI }}$
+
+${\color{#4C9489}\text{Under 14: please don’t interact. I’m fine with friendly interactions, but}}$
+${\color{#4C9489}\text{I’d rather avoid interacting with people under 14 because I’ve been accused}}$
+${\color{#4C9489}\text{of being a predator before simply for talking to younger people, even though}}$
+${\color{#4C9489}\text{I’m not even an adult myself. That’s why I prefer to avoid misunderstandings.}}$
+
+${\color{#4C9489}\text{I don’t add people randomly. I prefer talking first and getting to know each other}}$
+${\color{#4C9489}\text{before adding, just to see if we get along and are comfortable talking to each other.}}$
+
+${\color{#4C9489}\text{C+H freely if I’m alone. I don’t really like talking to people who constantly}}$
+${\color{#4C9489}\text{use brainrot, unless you’re mature enough to understand certain things.}}$
+
+<br>
+
+
+${\color{#7AA49E}\text{BOUNDARIES}}$
+
+${\color{#4C9489}\text{Please don’t take inspiration from, copy, or cover me without asking.}}$  
+${\color{#4C9489}\text{Friends are an exception if you’ve asked me beforehand.}}$  
+${\color{#4C9489}\text{I don’t make skins for people to copy.unless gifts }}$
+
+</div>
+
+
+</div>
+
+</p>
+</details>
+
+</div>
+
+<div>
+
 <p align="center">
   <img src="https://github.com/H0llowStrings/H0llowStrings/blob/6f32276e15b1b62fdee325d839ff95e7ba5b5e64/Sans%20titre%20524_20261016215720.png"width="1200">
 </p>

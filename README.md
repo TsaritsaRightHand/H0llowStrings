@@ -66,8 +66,6 @@ ${\color{#4C9489}\text{꒱ Medieval vibe     ·}}$ ${\color{#F6FFEB}\text{ fae a
   
 <div align="center">
 
-<div align="center">
-
 ${\color{#7AA49E}\text{ DNI}}$
 
 ${\color{#4C9489}\text{Minor × Adult shippers, sexualizing children, inappropriate / NSFW art involving minors, stalker fans, bodyshaming, racism, misogyny, sexism, homophobia, etc.}}$

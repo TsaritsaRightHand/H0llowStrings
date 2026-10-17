@@ -65,7 +65,7 @@ ${\color{#4C9489}\text{꒱ Medieval vibe     ·}}$ ${\color{#F6FFEB}\text{ fae a
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/1a303f49e0ac3f93b726a2aa172e2fa4871659b1/Sans%20titre%20515_20261017212832.png" width="85" alt="BYI"/>
+<img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/1a303f49e0ac3f93b726a2aa172e2fa4871659b1/Sans%20titre%20515_20261017212832.png" width="200" alt="BYI"/>
 
 <br><br>
 

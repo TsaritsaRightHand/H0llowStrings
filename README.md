@@ -56,77 +56,88 @@ ${\color{#4C9489}\text{꒱ Medieval vibe     ·}}$ ${\color{#F6FFEB}\text{ fae a
 </table>
 </div>
 
-
 <div align="center">
 
 <details>
-<summary>${\color{#4C9489}\text{Byi ✦}}$</summary>
+<summary><span style="color:#7AA49E;">Byi ✦</span></summary>
 
 <br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/1a303f49e0ac3f93b726a2aa172e2fa4871659b1/Sans%20titre%20515_20261017212832.png" width="85" alt="BYI decoration"/>
-</p>
 
 <div align="center">
 
-${\color{#4C9489}\text{DNI}}$
+<img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/1a303f49e0ac3f93b726a2aa172e2fa4871659b1/Sans%20titre%20515_20261017212832.png" width="85" alt="BYI"/>
 
-${\color{#7AA49E}\text{Minor × adult shippers, people who sexualize children, inappropriate or NSFW art involving minors, stalker fans, body shaming, racism, misogyny, sexism, homophobia, etc.}}$
+<br><br>
 
-<br>
-
-${\color{#4C9489}\text{DNIUF / IWC}}$
-
-${\color{#7AA49E}\text{Greenapple DNIUF, most DNI roleplayers, Harlequin lovers / Harlequin fans, and people who genuinely support any of the things listed above.}}$
-
-${\color{#4C9489}\text{(Hazbin Hotel / Helluva Boss DNI / DNIUF)}}$
-
-${\color{#4C9489}\text{TFC fandom and Vesnica (Danica × Vesna).}}$
+<span style="color:#F6FFEB;">DNI</span>
 
 <br>
 
-${\color{#4C9489}\text{BASIC DNI}}$
+<span style="color:#D4E6DD;">Minor × adult shippers, people who sexualize children, inappropriate or NSFW art involving minors, stalker fans, body-shaming, racism, misogyny, sexism, homophobia, etc.</span>
 
-${\color{#7AA49E}\text{If you're uncomfortable with my personality or attitude, we probably won't get along.}}$
+<br><br>
 
-${\color{#7AA49E}\text{I can be mean or a ragebaiter around my friends, so please don't take everything I say seriously.}}$
-
-${\color{#7AA49E}\text{I'm also not always educated on every topic, so feel free to correct me respectfully.}}$
+<span style="color:#F6FFEB;">DNIUF / IWC</span>
 
 <br>
 
-${\color{#4C9489}\text{IWC / BYI}}$
-
-${\color{#7AA49E}\text{If you're under 14, please don't interact. I'm fine with friendly interactions, but}}$
-
-${\color{#7AA49E}\text{I'd rather avoid interacting with people under 14 to prevent misunderstandings.}}$
-
-${\color{#7AA49E}\text{I've been accused of being a predator simply for talking to younger people,}}$
-
-${\color{#7AA49E}\text{even though I'm not an adult myself. That's why I prefer to be cautious.}}$
+<span style="color:#D4E6DD;">Greenapple DNIUF, most DNI roleplayers, Harlequin lovers / Harlequin fans, and people who genuinely support any of the things listed above.</span>
 
 <br>
 
-${\color{#7AA49E}\text{I don't add people randomly. I prefer talking first and getting to know each other}}$
-
-${\color{#7AA49E}\text{before adding them, so we can see whether we get along and feel comfortable.}}$
+<span style="color:#7AA49E;">(Hazbin Hotel / Helluva Boss DNI / DNIUF)</span>
 
 <br>
 
-${\color{#7AA49E}\text{C+H freely if I'm alone. I don't really enjoy conversations full of brainrot,}}$
+<span style="color:#7AA49E;">TFC fandom, and Vesnica (Danica × Vesna).</span>
 
-${\color{#7AA49E}\text{unless you're mature enough to understand certain things.}}$
+<br><br>
+
+<span style="color:#F6FFEB;">BASIC DNI</span>
 
 <br>
 
-${\color{#4C9489}\text{BOUNDARIES}}$
+<span style="color:#D4E6DD;">If you're uncomfortable with my personality or attitude, we probably won't get along.</span>
 
-${\color{#7AA49E}\text{Please don't take inspiration from, copy, or cover me without asking.}}$
+<br>
 
-${\color{#7AA49E}\text{Friends are an exception if you've asked me beforehand.}}$
+<span style="color:#D4E6DD;">I can be mean or a ragebaiter around my friends, so please don't take everything I say seriously.</span>
 
-${\color{#7AA49E}\text{I don't make skins for people to copy, unless they're gifts.}}$
+<br>
+
+<span style="color:#D4E6DD;">I'm also not always educated on every topic, so feel free to correct me respectfully.</span>
+
+<br><br>
+
+<span style="color:#F6FFEB;">IWC / BYI</span>
+
+<br>
+
+<span style="color:#D4E6DD;">If you're under 14, please don't interact. I'm fine with friendly interactions, but I'd rather avoid interacting with people under 14 because I've been accused of being a predator simply for talking to younger people, even though I'm not an adult myself. That's why I prefer to avoid misunderstandings.</span>
+
+<br><br>
+
+<span style="color:#D4E6DD;">I don't add people randomly. I prefer talking first and getting to know each other before adding, just to see if we get along and feel comfortable talking to each other.</span>
+
+<br><br>
+
+<span style="color:#D4E6DD;">C+H freely if I'm alone. I don't really like talking to people who constantly use brainrot, unless you're mature enough to understand certain things.</span>
+
+<br><br>
+
+<span style="color:#F6FFEB;">BOUNDARIES</span>
+
+<br>
+
+<span style="color:#D4E6DD;">Please don't take inspiration from, copy, or cover me without asking.</span>
+
+<br>
+
+<span style="color:#D4E6DD;">Friends are an exception if you've asked me beforehand.</span>
+
+<br>
+
+<span style="color:#D4E6DD;">I don't make skins for people to copy, unless they're gifts.</span>
 
 </div>
 
